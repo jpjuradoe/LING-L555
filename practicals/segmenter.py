@@ -1,10 +1,12 @@
-#To replace every '. ' with a full stop and a newline character '\n'.
+#To replace every '. ' with a full stop and a newline character  '\n\'
 
 import sys
 
-line = sys.stdin.read()
+line = sys.stdin.readline()
 
-seg = line.replace(". ", ".\n")
+lines = line.replace('.', '.\n')
 
-print(seg)
+while lines:
+        print(lines)
+        lines = sys.stdin.readline()
 
