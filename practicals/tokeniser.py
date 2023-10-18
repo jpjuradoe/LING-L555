@@ -22,4 +22,4 @@ for line in sys.stdin.readlines():
 	tokens = line.split()
 	for token in tokens:
 		b = b + 1
-		print(b, token, '\t_\t_\t_\t_\t_\t_\t_\t_\t_\t_')
+		print(b, token, '\t_\t_\t_\t_\t_\t_\t_\t_')
