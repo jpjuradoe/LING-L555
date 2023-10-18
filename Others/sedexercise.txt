@@ -1,0 +1,11 @@
+# To tokenise by word
+sed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | 
+sort -r | 
+uniq -c | 
+sed 10q
+
+# To get word initial consonants
+sed 's/[^a-zA-Z]\+/\n/g' < wiki.txt | grep -i '^[^bcdfg]'
+sort -r |
+uniq -c |
+sed 10q
