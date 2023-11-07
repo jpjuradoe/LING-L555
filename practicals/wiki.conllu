@@ -1,0 +1,45 @@
+# sent_id = 1
+# text = El españöl andino: nariñénsë-pastuso(Înga), perüano, boliviano, y eKuatorîano.
+1 	 El 	_	DET	_	_	_	_	_	IPA= el 
+2 	 españöl 	_	NOUN	_	_	_	_	_	IPA= espaɲol 
+3 	 andino 	_	ADJ	_	_	_	_	_	IPA= anðino 
+4 	 : 	_	PUNCT	_	_	_	_	_	IPA= : 
+5 	 nariñénsë 	_	ADJ	_	_	_	_	_	IPA= naɾiɲense 
+6 	 - 	_	PUNCT	_	_	_	_	_	IPA= - 
+7 	 pastuso 	_	ADJ	_	_	_	_	_	IPA= pastuso 
+8 	 ( 	_	PUNCT	_	_	_	_	_	IPA= ( 
+9 	 Înga 	_	NOUN	_	_	_	_	_	IPA= Îŋga 
+10 	 ) 	_	PUNCT	_	_	_	_	_	IPA= ) 
+11 	 , 	_	PUNCT	_	_	_	_	_	IPA= , 
+12 	 perüano 	_	ADJ	_	_	_	_	_	IPA= peɾuano 
+13 	 , 	_	PUNCT	_	_	_	_	_	IPA= , 
+14 	 boliviano 	_	ADJ	_	_	_	_	_	IPA= βolibiano 
+15 	 , 	_	PUNCT	_	_	_	_	_	IPA= , 
+16 	 y 	_	CONJ	_	_	_	_	_	IPA=i
+17 	 eKuatorîano 	_	ADJ	_	_	_	_	_	IPA= eKwatoɾiano 
+18 	 . 	_	PUNCT	_	_	_	_	_	IPA= . 
+
+# sent_id = 2
+# text =  "Solo" en suramerica y muy bien.
+1 	 " 	_	PUNCT	_	_	_	_	_	IPA= " 
+2 	 Solo 	_	ADV	_	_	_	_	_	IPA= Solo 
+3 	 " 	_	PUNCT	_	_	_	_	_	IPA= " 
+4 	 en 	_	PREP	_	_	_	_	_	IPA= en 
+5 	 suramerica 	_	NOUN	_	_	_	_	_	IPA= suɾameɾika 
+6 	 y 	_	CONJ	_	_	_	_	_	IPA=i
+7 	 muy 	_	ADV	_	_	_	_	_	IPA= muj 
+8 	 bien 	_	ADJ	_	_	_	_	_	IPA= βjen 
+9 	 . 	_	PUNCT	_	_	_	_	_	IPA= . 
+
+# sent_id = 3
+# text = Como debe ser.
+1 	 Como 	_	ADV	_	_	_	_	_	IPA= komo 
+2 	 debe 	_	VERB	_	_	_	_	_	IPA= ðeβe 
+3 	 ser 	_	VERB	_	_	_	_	_	IPA= seɾ 
+4 	 . 	_	PUNCT	_	_	_	_	_	IPA= . 
+
+# sent_id = 4
+# text = El andino:
+1 	 El 	_	DET	_	_	_	_	_	IPA= el 
+2 	 andino 	_	NOUN	_	_	_	_	_	IPA= anðino 
+3 	 : 	_	PUNCT	_	_	_	_	_	IPA= : 
