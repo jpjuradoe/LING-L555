@@ -1,24 +1,17 @@
 
 Nayriri uñstawi:
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
+
 Hispanohablantes
-<templatestyles src="Portada/styles.css" />
+
 English speakers
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
+
 Yaqha luräwinaka
-<templatestyles src="Portada/styles.css" />
+
 Qillqatanaka
-<templatestyles src="Portada/styles.css" />
-<templatestyles src="Portada/styles.css" />
+
 Yanapäwinaka
-<templatestyles src="Portada/styles.css" />
+
 Yanapañ uñstawinaka
-<templatestyles src="Portada/styles.css" />
 
 Wikipidiya:
 Wikipidiya (Wikipedia)
