@@ -1,4 +1,4 @@
-#To count: lines, tokens, and characters
+#To count: lines, tokens, characters, vowels, consonants, and syllables
 
 import sys
 
