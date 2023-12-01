@@ -4,8 +4,7 @@ import sys
 
 line = sys.stdin.readline()
 
-lines = line.replace('.', '.\n')
-
-while lines:
-	print(lines)
-	lines = sys.stdin.readline()
+while line:
+	line = line.replace('.', '.\n')
+	print(line)
+	line = sys.stdin.readline()
