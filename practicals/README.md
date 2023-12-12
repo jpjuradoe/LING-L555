@@ -5,6 +5,7 @@ List of completed practicals:
 * `tokeniser.py`
 * `transcriber.py`
 * `trainer.py`
+* `tagger.py`
   
 List of incomplete practicals:
-* `tagger.py`
+* 
