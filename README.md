@@ -114,6 +114,18 @@ Running all the codes together we get the following output:
 ```
 
 ## References
-Universal Dependencies project. (n.d.). CoNLL-U Format. Retrieved December 12, 2023, from [https://universaldependencies.org/format.html#words-tokens-and-empty-nodes] 
-Marshall, I. (1983). Choice of Grammatical Word-Class without Global Syntactic Analysis: Tagging Words in the LOB Corpus. Computers and the Humanities, 17(3), 139–150. http://www.jstor.org/stable/30204076
-Martines, A. R. (2012). Part-of-speech tagging. WIREs Comp Stat, 4, 107-113. DOI: https://doi.org/10.1002/wics.195 
+
+<a id="1">[1]</a> 
+Marshall, I. (1983). 
+Choice of Grammatical Word-Class without Global Syntactic Analysis: Tagging Words in the LOB Corpus.
+Computers and the Humanities, 17(3), 139–150. http://www.jstor.org/stable/30204076
+
+<a id="1">[1]</a> 
+Martines, A. R. (2012).
+Part-of-speech tagging.
+WIREs Comp Stat, 4, 107-113. DOI: https://doi.org/10.1002/wics.195
+
+<a id="1">[1]</a> 
+Universal Dependencies project. (n.d.).
+CoNLL-U Format.
+Retrieved December 12, 2023, from https://universaldependencies.org/format.html#words-tokens-and-empty-nodes
