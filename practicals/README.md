@@ -8,4 +8,4 @@ List of completed practicals:
 * `tagger.py`
   
 List of incomplete practicals:
-* 
+
