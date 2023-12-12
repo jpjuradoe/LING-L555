@@ -8,7 +8,7 @@
 
 The aim of part-of-speech tagging is to label (or tag) each word in a corpus with the correct part of speech to indicate their grammatical behavior. According to Martinez (2012), tagging is one of the earliest steps in many natural language processes (NLPs)” (p.107).  To be able to run the code for this project, which labels words in sentences within a corpus, other codes were previously implemented. The first step was to take texts from a corpus and output each sentence in a new line. This code was the `segmenter.py`. Taking the output from the `segmenter.py`, each word was tokenized, using the `tokenizer.py`, which follows a format similar to [CoNLL-U](https://universaldependencies.org/format.html#words-tokens-and-empty-nodes). The next code used was the `train.py` that outputs word frequency and the frequency of the part-of-speech tag. The output of the `train.py` serves the labeling of the words in the corpus.
 
-The first for loop of the `tagger.py` reads the output from the `train.py` and prints the output taken to the second for loop.  For this,  *= count* instead of *+= 1* was used in the last *if* condition to get the right frequency number to extract the most frequent tag per word.
+The first for loop of the `tagger.py` reads the output from the `train.py` and prints the output taken to the second for loop.  For this,  *= count* instead of *+= 1* was used in the last *if* condition to get the right frequency number to extract the most frequent tag per word. Using *+= 1* would have changed the count and would have not printed the same values from the output of the `train.py`
 
 ```ruby
 import sys
