@@ -1,6 +1,6 @@
 # LING-L555: Part-of-speech tagging in Python3
 
-`JESSICA P. JURADO Eraso`
+`JESSICA P. JURADO ERASO`
 
 `Indiana University`
 
